@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="light.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="light animated0000" x="0" y="0" width="1136" height="1080"/>
+	<SubTexture name="light animated0001" x="0" y="0" width="1136" height="1080"/>
+	<SubTexture name="light animated0002" x="0" y="0" width="1136" height="1080"/>
+	<SubTexture name="light animated0003" x="0" y="0" width="1136" height="1080"/>
+	<SubTexture name="light animated0004" x="0" y="0" width="1136" height="1080"/>
+	<SubTexture name="light animated0005" x="0" y="0" width="1136" height="1080"/>
+	<SubTexture name="light animated0006" x="0" y="0" width="1136" height="1080"/>
+	<SubTexture name="light animated0007" x="0" y="0" width="1136" height="1080"/>
+	<SubTexture name="light animated0008" x="0" y="0" width="1136" height="1080"/>
+	<SubTexture name="light animated0009" x="0" y="0" width="1136" height="1080"/>
+	<SubTexture name="light animated0010" x="1136" y="0" width="0" height="0" frameX="392" frameY="0" frameWidth="1136" frameHeight="1080"/>
+	<SubTexture name="light animated0011" x="1136" y="0" width="0" height="0" frameX="392" frameY="0" frameWidth="1136" frameHeight="1080"/>
+	<SubTexture name="light animated0012" x="0" y="0" width="1136" height="1080"/>
+	<SubTexture name="light animated0013" x="1136" y="0" width="0" height="0" frameX="392" frameY="0" frameWidth="1136" frameHeight="1080"/>
+	<SubTexture name="light animated0014" x="0" y="0" width="1136" height="1080"/>
+	<SubTexture name="light animated0015" x="0" y="0" width="1136" height="1080"/>
+	<SubTexture name="light animated0016" x="1136" y="0" width="0" height="0" frameX="392" frameY="0" frameWidth="1136" frameHeight="1080"/>
+	<SubTexture name="light animated0017" x="0" y="0" width="1136" height="1080"/>
+	<SubTexture name="light animated0018" x="0" y="0" width="1136" height="1080"/>
+	<SubTexture name="light animated0019" x="0" y="0" width="1136" height="1080"/>
+	<SubTexture name="light animated0020" x="0" y="0" width="1136" height="1080"/>
+	<SubTexture name="light animated0021" x="0" y="0" width="1136" height="1080"/>
+	<SubTexture name="light animated0022" x="0" y="0" width="1136" height="1080"/>
+	<SubTexture name="light animated0023" x="0" y="0" width="1136" height="1080"/>
+	<SubTexture name="light animated0024" x="0" y="0" width="1136" height="1080"/>
+	<SubTexture name="light animated0025" x="0" y="0" width="1136" height="1080"/>
+	<SubTexture name="light animated0026" x="0" y="0" width="1136" height="1080"/>
+	<SubTexture name="light animated0027" x="0" y="0" width="1136" height="1080"/>
+	<SubTexture name="light animated0028" x="0" y="0" width="1136" height="1080"/>
+	<SubTexture name="light animated0029" x="0" y="0" width="1136" height="1080"/>
+	<SubTexture name="light animated0030" x="0" y="0" width="1136" height="1080"/>
+	<SubTexture name="light animated0031" x="0" y="0" width="1136" height="1080"/>
+	<SubTexture name="light animated0032" x="0" y="0" width="1136" height="1080"/>
+	<SubTexture name="light animated0033" x="0" y="0" width="1136" height="1080"/>
+	<SubTexture name="light animated0034" x="0" y="0" width="1136" height="1080"/>
+	<SubTexture name="light animated0035" x="0" y="0" width="1136" height="1080"/>
+	<SubTexture name="light animated0036" x="0" y="0" width="1136" height="1080"/>
+	<SubTexture name="light animated0037" x="0" y="0" width="1136" height="1080"/>
+	<SubTexture name="light animated0038" x="0" y="0" width="1136" height="1080"/>
+	<SubTexture name="light animated0039" x="0" y="0" width="1136" height="1080"/>
+	<SubTexture name="light animated0040" x="0" y="0" width="1136" height="1080"/>
+	<SubTexture name="light animated0041" x="0" y="0" width="1136" height="1080"/>
+	<SubTexture name="light animated0042" x="0" y="0" width="1136" height="1080"/>
+	<SubTexture name="light animated0043" x="0" y="0" width="1136" height="1080"/>
+	<SubTexture name="light animated0044" x="0" y="0" width="1136" height="1080"/>
+	<SubTexture name="light animated0045" x="0" y="0" width="1136" height="1080"/>
+	<SubTexture name="light animated0046" x="0" y="0" width="1136" height="1080"/>
+	<SubTexture name="light animated0047" x="0" y="0" width="1136" height="1080"/>
+</TextureAtlas>

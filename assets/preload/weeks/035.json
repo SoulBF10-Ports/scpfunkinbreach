@@ -1,0 +1,26 @@
+{
+	"storyName": "",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"masquerade",
+			"gf",
+			[
+				195,
+				35,
+				75
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "035_week_paper"
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				180,
+				330
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "another attempt"
+		},
+		{
+			"offsets": [
+				180,
+				330
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "another attempt"
+		},
+		{
+			"offsets": [
+				180,
+				330
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "another attempt"
+		},
+		{
+			"offsets": [
+				180,
+				330
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "another attempt"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				180,
+				330
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "drip",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Drip",
+	"position": [
+		110,
+		270
+	],
+	"healthicon": "drip",
+	"flip_x": false,
+	"healthbar_colors": [
+		120,
+		100,
+		80
+	],
+	"camera_position": [
+		-110,
+		-170
+	],
+	"sing_duration": 6.2,
+	"scale": 0.7
+}

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cannonball.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="asian d class dead0000" x="1822" y="0" width="525" height="774" frameX="-769" frameY="-272" frameWidth="1307" frameHeight="1399"/>
+	<SubTexture name="asian d class dead0001" x="1822" y="0" width="525" height="774" frameX="-769" frameY="-272" frameWidth="1307" frameHeight="1399"/>
+	<SubTexture name="asian d class dead0002" x="599" y="0" width="602" height="712" frameX="-681" frameY="-333" frameWidth="1307" frameHeight="1399"/>
+	<SubTexture name="asian d class dead0003" x="599" y="0" width="602" height="712" frameX="-681" frameY="-333" frameWidth="1307" frameHeight="1399"/>
+	<SubTexture name="asian d class dead0004" x="0" y="0" width="599" height="718" frameX="-681" frameY="-326" frameWidth="1307" frameHeight="1399"/>
+	<SubTexture name="asian d class dead0005" x="0" y="0" width="599" height="718" frameX="-681" frameY="-326" frameWidth="1307" frameHeight="1399"/>
+	<SubTexture name="asian d class dead0006" x="2347" y="0" width="550" height="732" frameX="-733" frameY="-313" frameWidth="1307" frameHeight="1399"/>
+	<SubTexture name="asian d class dead0007" x="2347" y="0" width="550" height="732" frameX="-733" frameY="-313" frameWidth="1307" frameHeight="1399"/>
+	<SubTexture name="asian d class dead0008" x="2347" y="732" width="548" height="734" frameX="-737" frameY="-311" frameWidth="1307" frameHeight="1399"/>
+	<SubTexture name="asian d class dead0009" x="2347" y="732" width="548" height="734" frameX="-737" frameY="-311" frameWidth="1307" frameHeight="1399"/>
+	<SubTexture name="asian d class dead0010" x="2897" y="0" width="550" height="731" frameX="-733" frameY="-314" frameWidth="1307" frameHeight="1399"/>
+	<SubTexture name="asian d class dead0011" x="2897" y="0" width="550" height="731" frameX="-733" frameY="-314" frameWidth="1307" frameHeight="1399"/>
+	<SubTexture name="asian d class dead0012" x="3447" y="2169" width="550" height="722" frameX="-732" frameY="-323" frameWidth="1307" frameHeight="1399"/>
+	<SubTexture name="asian d class dead0013" x="3447" y="2169" width="550" height="722" frameX="-732" frameY="-323" frameWidth="1307" frameHeight="1399"/>
+	<SubTexture name="asian d class dead0014" x="3447" y="721" width="551" height="724" frameX="-731" frameY="-321" frameWidth="1307" frameHeight="1399"/>
+	<SubTexture name="asian d class dead0015" x="3447" y="721" width="551" height="724" frameX="-731" frameY="-321" frameWidth="1307" frameHeight="1399"/>
+	<SubTexture name="asian d class dead0016" x="3447" y="1445" width="551" height="724" frameX="-731" frameY="-321" frameWidth="1307" frameHeight="1399"/>
+	<SubTexture name="asian d class dead0017" x="3447" y="1445" width="551" height="724" frameX="-731" frameY="-321" frameWidth="1307" frameHeight="1399"/>
+	<SubTexture name="asian d class dead0018" x="3447" y="721" width="551" height="724" frameX="-731" frameY="-321" frameWidth="1307" frameHeight="1399"/>
+	<SubTexture name="asian d class dead0019" x="3447" y="721" width="551" height="724" frameX="-731" frameY="-321" frameWidth="1307" frameHeight="1399"/>
+	<SubTexture name="asian d class dead0020" x="3447" y="1445" width="551" height="724" frameX="-731" frameY="-321" frameWidth="1307" frameHeight="1399"/>
+	<SubTexture name="asian d class dead0021" x="3447" y="1445" width="551" height="724" frameX="-731" frameY="-321" frameWidth="1307" frameHeight="1399"/>
+	<SubTexture name="asian d class dead0022" x="3447" y="0" width="554" height="721" frameX="-725" frameY="-326" frameWidth="1307" frameHeight="1399"/>
+	<SubTexture name="asian d class dead0023" x="3447" y="0" width="554" height="721" frameX="-725" frameY="-326" frameWidth="1307" frameHeight="1399"/>
+	<SubTexture name="asian d class dead0024" x="0" y="2181" width="561" height="714" frameX="-712" frameY="-338" frameWidth="1307" frameHeight="1399"/>
+	<SubTexture name="asian d class dead0025" x="0" y="2181" width="561" height="714" frameX="-712" frameY="-338" frameWidth="1307" frameHeight="1399"/>
+	<SubTexture name="asian d class dead0026" x="0" y="1491" width="584" height="690" frameX="-666" frameY="-371" frameWidth="1307" frameHeight="1399"/>
+	<SubTexture name="asian d class dead0027" x="0" y="1491" width="584" height="690" frameX="-666" frameY="-371" frameWidth="1307" frameHeight="1399"/>
+	<SubTexture name="asian d class dead0028" x="1201" y="0" width="621" height="656" frameX="-574" frameY="-432" frameWidth="1307" frameHeight="1399"/>
+	<SubTexture name="asian d class dead0029" x="1201" y="0" width="621" height="656" frameX="-574" frameY="-432" frameWidth="1307" frameHeight="1399"/>
+	<SubTexture name="asian d class dead0030" x="527" y="718" width="635" height="637" frameX="-407" frameY="-552" frameWidth="1307" frameHeight="1399"/>
+	<SubTexture name="asian d class dead0031" x="527" y="718" width="635" height="637" frameX="-407" frameY="-552" frameWidth="1307" frameHeight="1399"/>
+	<SubTexture name="asian d class dead0032" x="1162" y="718" width="613" height="565" frameX="-366" frameY="-744" frameWidth="1307" frameHeight="1399"/>
+	<SubTexture name="asian d class dead0033" x="1162" y="718" width="613" height="565" frameX="-366" frameY="-744" frameWidth="1307" frameHeight="1399"/>
+	<SubTexture name="asian d class dead0034" x="584" y="1491" width="641" height="494" frameX="-330" frameY="-907" frameWidth="1307" frameHeight="1399"/>
+	<SubTexture name="asian d class dead0035" x="584" y="1491" width="641" height="494" frameX="-330" frameY="-907" frameWidth="1307" frameHeight="1399"/>
+	<SubTexture name="asian d class idle0000" x="0" y="718" width="527" height="773" frameX="-2" frameY="0" frameWidth="536" frameHeight="775"/>
+</TextureAtlas>

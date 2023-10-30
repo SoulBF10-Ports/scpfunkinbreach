@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="drip.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="drip0000" x="0" y="0" width="581" height="963"/>
+	<SubTexture name="drip0001" x="0" y="0" width="581" height="963"/>
+	<SubTexture name="drip0002" x="0" y="0" width="581" height="963"/>
+	<SubTexture name="drip0003" x="581" y="0" width="581" height="963"/>
+	<SubTexture name="drip0004" x="581" y="0" width="581" height="963"/>
+	<SubTexture name="drip0005" x="581" y="0" width="581" height="963"/>
+</TextureAtlas>

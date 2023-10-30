@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="093.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="93down0000" x="2846" y="4115" width="1418" height="776" frameX="0" frameY="-72" frameWidth="1433" frameHeight="849"/>
+	<SubTexture name="93down0001" x="5515" y="0" width="1418" height="776" frameX="0" frameY="-72" frameWidth="1433" frameHeight="849"/>
+	<SubTexture name="93down0002" x="1423" y="4115" width="1423" height="822" frameX="-7" frameY="-27" frameWidth="1433" frameHeight="849"/>
+	<SubTexture name="93down0003" x="0" y="4115" width="1423" height="822" frameX="-7" frameY="-27" frameWidth="1433" frameHeight="849"/>
+	<SubTexture name="93idle0000" x="1403" y="2141" width="1439" height="956" frameX="-1" frameY="-43" frameWidth="1441" frameHeight="999"/>
+	<SubTexture name="93left0000" x="0" y="1158" width="1418" height="983" frameX="0" frameY="-9" frameWidth="1418" frameHeight="992"/>
+	<SubTexture name="93left0001" x="2706" y="0" width="1417" height="983" frameX="0" frameY="-9" frameWidth="1418" frameHeight="992"/>
+	<SubTexture name="93left0002" x="0" y="2141" width="1403" height="990" frameX="-14" frameY="-2" frameWidth="1418" frameHeight="992"/>
+	<SubTexture name="93left0003" x="2706" y="983" width="1404" height="990" frameX="-14" frameY="-2" frameWidth="1418" frameHeight="992"/>
+	<SubTexture name="93right0000" x="4123" y="0" width="1392" height="965" frameX="-14" frameY="-24" frameWidth="1406" frameHeight="990"/>
+	<SubTexture name="93right0001" x="4123" y="965" width="1392" height="965" frameX="-14" frameY="-24" frameWidth="1406" frameHeight="990"/>
+	<SubTexture name="93right0002" x="0" y="3131" width="1396" height="984" frameX="0" frameY="-6" frameWidth="1406" frameHeight="990"/>
+	<SubTexture name="93right0003" x="1396" y="3131" width="1396" height="984" frameX="0" frameY="-6" frameWidth="1406" frameHeight="990"/>
+	<SubTexture name="93up0000" x="1353" y="0" width="1353" height="1158" frameX="-10" frameY="0" frameWidth="1385" frameHeight="1158"/>
+	<SubTexture name="93up0001" x="0" y="0" width="1353" height="1158" frameX="-10" frameY="0" frameWidth="1385" frameHeight="1158"/>
+</TextureAtlas>

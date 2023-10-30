@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="079.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="79down0000" x="2052" y="1430" width="1026" height="715" frameX="2" frameY="2" frameWidth="1022" frameHeight="711"/>
+	<SubTexture name="79down0001" x="3078" y="2145" width="1026" height="715" frameX="2" frameY="2" frameWidth="1022" frameHeight="711"/>
+	<SubTexture name="79down0002" x="1026" y="0" width="1026" height="715" frameX="2" frameY="2" frameWidth="1022" frameHeight="711"/>
+	<SubTexture name="79down0003" x="2052" y="0" width="1026" height="715" frameX="2" frameY="2" frameWidth="1022" frameHeight="711"/>
+	<SubTexture name="79idle0000" x="1026" y="2145" width="1026" height="715" frameX="2" frameY="2" frameWidth="1022" frameHeight="711"/>
+	<SubTexture name="79left0000" x="3078" y="1430" width="1026" height="715" frameX="2" frameY="2" frameWidth="1022" frameHeight="711"/>
+	<SubTexture name="79left0001" x="3078" y="0" width="1026" height="715" frameX="2" frameY="2" frameWidth="1022" frameHeight="711"/>
+	<SubTexture name="79left0002" x="0" y="0" width="1026" height="715" frameX="2" frameY="2" frameWidth="1022" frameHeight="711"/>
+	<SubTexture name="79left0003" x="1026" y="715" width="1026" height="715" frameX="2" frameY="2" frameWidth="1022" frameHeight="711"/>
+	<SubTexture name="79right0000" x="1026" y="1430" width="1026" height="715" frameX="2" frameY="2" frameWidth="1022" frameHeight="711"/>
+	<SubTexture name="79right0001" x="0" y="715" width="1026" height="715" frameX="2" frameY="2" frameWidth="1022" frameHeight="711"/>
+	<SubTexture name="79right0002" x="3078" y="715" width="1026" height="715" frameX="2" frameY="2" frameWidth="1022" frameHeight="711"/>
+	<SubTexture name="79right0003" x="2052" y="2145" width="1026" height="715" frameX="2" frameY="2" frameWidth="1022" frameHeight="711"/>
+	<SubTexture name="79up0000" x="0" y="2860" width="1026" height="715" frameX="2" frameY="2" frameWidth="1022" frameHeight="711"/>
+	<SubTexture name="79up0001" x="2052" y="715" width="1026" height="715" frameX="2" frameY="2" frameWidth="1022" frameHeight="711"/>
+	<SubTexture name="79up0002" x="0" y="1430" width="1026" height="715" frameX="2" frameY="2" frameWidth="1022" frameHeight="711"/>
+	<SubTexture name="79up0003" x="0" y="2145" width="1026" height="715" frameX="2" frameY="2" frameWidth="1022" frameHeight="711"/>
+</TextureAtlas>

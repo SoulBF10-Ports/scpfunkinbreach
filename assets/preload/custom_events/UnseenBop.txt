@@ -1,0 +1,3 @@
+true = those mfs bopping
+
+false = nuh uh

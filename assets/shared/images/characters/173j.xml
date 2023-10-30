@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="173j.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="mexican down0000" x="1637" y="1771" width="827" height="568" frameX="0" frameY="-6" frameWidth="842" frameHeight="572"/>
+	<SubTexture name="mexican down0001" x="1547" y="3186" width="826" height="567" frameX="-18" frameY="-7" frameWidth="842" frameHeight="572"/>
+	<SubTexture name="mexican down0002" x="1547" y="3186" width="826" height="567" frameX="-18" frameY="-7" frameWidth="842" frameHeight="572"/>
+	<SubTexture name="mexican down0003" x="719" y="3186" width="828" height="567" frameX="-12" frameY="-7" frameWidth="842" frameHeight="572"/>
+	<SubTexture name="mexican down0004" x="719" y="3186" width="828" height="567" frameX="-12" frameY="-7" frameWidth="842" frameHeight="572"/>
+	<SubTexture name="mexican down0005" x="2162" y="2467" width="827" height="568" frameX="-8" frameY="-6" frameWidth="842" frameHeight="572"/>
+	<SubTexture name="mexican down0006" x="2162" y="2467" width="827" height="568" frameX="-8" frameY="-6" frameWidth="842" frameHeight="572"/>
+	<SubTexture name="mexican down0007" x="811" y="1771" width="826" height="571" frameX="-5" frameY="-3" frameWidth="842" frameHeight="572"/>
+	<SubTexture name="mexican idle0000" x="0" y="1771" width="811" height="696" frameX="-30" frameY="-1" frameWidth="875" frameHeight="696"/>
+	<!-- <SubTexture name="mexican idle0001" x="2503" y="0" width="796" height="700" frameX="-37" frameY="2" frameWidth="875" frameHeight="696"/> -->
+	<SubTexture name="mexican left0000" x="3299" y="2380" width="643" height="791" frameX="-12" frameY="-1" frameWidth="655" frameHeight="792"/>
+	<SubTexture name="mexican left0001" x="2503" y="1423" width="653" height="796" frameX="2" frameY="2" frameWidth="655" frameHeight="792"/>
+	<SubTexture name="mexican left0002" x="2503" y="1423" width="653" height="796" frameX="2" frameY="2" frameWidth="655" frameHeight="792"/>
+	<SubTexture name="mexican left0003" x="3299" y="0" width="648" height="795" frameX="-4" frameY="2" frameWidth="655" frameHeight="792"/>
+	<SubTexture name="mexican left0004" x="3299" y="0" width="648" height="795" frameX="-4" frameY="2" frameWidth="655" frameHeight="792"/>
+	<SubTexture name="mexican left0005" x="3299" y="1587" width="643" height="793" frameX="-10" frameY="1" frameWidth="655" frameHeight="792"/>
+	<SubTexture name="mexican left0006" x="3299" y="1587" width="643" height="793" frameX="-10" frameY="1" frameWidth="655" frameHeight="792"/>
+	<SubTexture name="mexican left0007" x="3299" y="795" width="645" height="792" frameX="-10" frameY="0" frameWidth="655" frameHeight="792"/>
+	<SubTexture name="mexican right0000" x="0" y="2467" width="718" height="719" frameX="1" frameY="-11" frameWidth="723" frameHeight="730"/>
+	<SubTexture name="mexican right0001" x="1436" y="2467" width="726" height="709" frameX="2" frameY="-23" frameWidth="723" frameHeight="730"/>
+	<SubTexture name="mexican right0002" x="1436" y="2467" width="726" height="709" frameX="2" frameY="-23" frameWidth="723" frameHeight="730"/>
+	<SubTexture name="mexican right0003" x="0" y="3186" width="719" height="714" frameX="2" frameY="-16" frameWidth="723" frameHeight="730"/>
+	<SubTexture name="mexican right0004" x="0" y="3186" width="719" height="714" frameX="2" frameY="-16" frameWidth="723" frameHeight="730"/>
+	<SubTexture name="mexican right0005" x="718" y="2467" width="718" height="718" frameX="2" frameY="-12" frameWidth="723" frameHeight="730"/>
+	<SubTexture name="mexican right0006" x="718" y="2467" width="718" height="718" frameX="2" frameY="-12" frameWidth="723" frameHeight="730"/>
+	<SubTexture name="mexican right0007" x="2503" y="700" width="719" height="723" frameX="1" frameY="-7" frameWidth="723" frameHeight="730"/>
+	<SubTexture name="mexican up0000" x="812" y="891" width="798" height="880" frameX="-16" frameY="-3" frameWidth="836" frameHeight="887"/>
+	<SubTexture name="mexican up0001" x="0" y="0" width="840" height="891" frameX="2" frameY="2" frameWidth="836" frameHeight="887"/>
+	<SubTexture name="mexican up0002" x="840" y="0" width="840" height="891" frameX="2" frameY="2" frameWidth="836" frameHeight="887"/>
+	<SubTexture name="mexican up0003" x="1680" y="0" width="823" height="887" frameX="-5" frameY="1" frameWidth="836" frameHeight="887"/>
+	<SubTexture name="mexican up0004" x="1680" y="0" width="823" height="887" frameX="-5" frameY="1" frameWidth="836" frameHeight="887"/>
+	<SubTexture name="mexican up0005" x="0" y="891" width="812" height="880" frameX="-9" frameY="-3" frameWidth="836" frameHeight="887"/>
+	<SubTexture name="mexican up0006" x="0" y="891" width="812" height="880" frameX="-9" frameY="-3" frameWidth="836" frameHeight="887"/>
+	<SubTexture name="mexican up0007" x="1610" y="891" width="804" height="873" frameX="-13" frameY="-7" frameWidth="836" frameHeight="887"/>
+</TextureAtlas>

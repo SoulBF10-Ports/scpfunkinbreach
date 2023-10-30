@@ -1,0 +1,26 @@
+{
+	"storyName": "",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"emergence",
+			"106",
+			[
+				20,
+				20,
+				30
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "106_week_paper"
+}

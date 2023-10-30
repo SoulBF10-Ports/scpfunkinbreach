@@ -1,0 +1,26 @@
+{
+	"storyName": "",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"crumble",
+			"173",
+			[
+				255,
+				235,
+				195
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "173_week_paper"
+}

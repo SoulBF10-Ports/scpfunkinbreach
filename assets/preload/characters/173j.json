@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				37
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "mexican left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				36,
+				-23
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "mexican idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				36,
+				-323
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "mexican down"
+		},
+		{
+			"offsets": [
+				-264,
+				-43
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "mexican right"
+		},
+		{
+			"offsets": [
+				-24,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "mexican up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/173j",
+	"position": [
+		300,
+		-10
+	],
+	"healthicon": "173j",
+	"flip_x": false,
+	"healthbar_colors": [
+		148,
+		128,
+		84
+	],
+	"camera_position": [
+		160,
+		350
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}
